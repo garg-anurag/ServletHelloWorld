@@ -1,8 +1,8 @@
 ServletHelloWorld
 =================
+Servlets in Java simple HelloWorld example
 
-This is an initial repository that I have made using
-Servlets in Java
+This is a repository that I have made using the following tools:
 
 Tools used:
 
