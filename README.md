@@ -1,5 +1,9 @@
 ServletHelloWorld
 =================
+
+Servlets provide a component-based, platform-independent method for building Web-based applications, without the performance limitations of CGI programs. 
+Servlets have access to the entire family of Java APIs, including the JDBC API to access enterprise databases.
+
 Servlets in Java simple HelloWorld example
 
 This is a repository that I have made using the following tools:
